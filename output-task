@@ -1,0 +1,36 @@
+class Main {
+  public static final String TEXT_GREEN = "\u001B[32m";
+  public static void main(String []args)
+  {
+    
+    System.out.println(TEXT_GREEN + "\t\t\t\t Canada's Western Provinces");
+    System.out.println("\t\t\t\t --------------------------");
+    System.out.print(" Name");
+    System.out.print("\t\t\t\t\t\t Capital");
+    System.out.print("\t\t\t Slogan");
+    System.out.print("\n British Columbia");
+    System.out.print(" \t\t\t Victoria");
+    System.out.print("\t\t Beautiful British Columbia");
+    System.out.print("\n Alberta");
+    System.out.print("\t\t\t\t\t Edmonton");
+    System.out.print("\t\t Wild Rose Country");
+    System.out.print("\n Saskatchewan");
+    System.out.print("\t\t\t\t Regina");
+    System.out.print("\t\t\t Land of Living Skies");
+    System.out.print("\n Manitoba");
+    System.out.print("\t\t\t\t\t Winnipeg");
+    System.out.print ("\t\t Friendly Manitoba");
+    
+    System.out.println ("\n\n\t\t\t \\\\\\These are the western provinces.///");
+
+    System.out.print("\n\t\t\t\t\t\t\t |______|");
+    
+    
+    
+    
+    
+  
+  
+  
+  }
+}
